@@ -1,8 +1,3 @@
----
-title: notes.md
-
----
-
 # Project Notes – Arduino IDE Setup (Blink Test)
 
 ## 1. Project Purpose
