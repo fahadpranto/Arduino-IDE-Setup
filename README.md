@@ -1,8 +1,3 @@
----
-title: README
-
----
-
 # Project 01: Arduino IDE Setup
 
 **Project Type:** Embedded Systems / Arduino  
